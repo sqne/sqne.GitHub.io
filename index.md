@@ -1,2 +1,1 @@
-![repository-open-graph-template](https://user-images.githubusercontent.com/75197696/150172633-9176d9b4-8fd1-4c9a-a7d2-4dbd9b967687.png)
-欢迎访问sqne的网站
+欢迎访问sqne的网站![IMG_2988](https://user-images.githubusercontent.com/75197696/150173570-156cd6a9-9656-4c96-9938-e22e4159dd43.jpg)
